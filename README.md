@@ -3,7 +3,7 @@
 <a href="#"><img src="https://img.shields.io/badge/RELEASE-v1.0-orange?style=for-the-badge&"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
-Script created to try my skills in python + testing GUI customtkinter module
+Script created for testing skills in python + testing GUI customtkinter module
 
 ## First look
 <p align="center">
