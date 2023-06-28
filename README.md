@@ -16,7 +16,7 @@ Script created to try my skills in python + testing GUI customtkinter module
 
   - For first time, run this in terminal or powershell
 ```
-pip3 install customtkinter
+pip install customtkinter
 ```
   2. It will download all the required modules
 
