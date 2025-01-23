@@ -1,5 +1,10 @@
-import customtkinter as ctk
 import os
+
+try:
+    import customtkinter as ctk
+except:
+    os.system("pip install customtkinter")
+    import customtkinter as ctk
 
 # Created by Rikey
 # https://github.com/semazurek/
